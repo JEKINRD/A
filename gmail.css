@@ -1,1 +1,60 @@
-# 
+h1{
+   color: blue;  
+   
+}
+button{
+  
+ background-color:white;
+ font-weight:120px; 
+padding:10px 45px;
+border-radius:50px;
+background: #ccc url(https://www.actualidadiphone.com/wp-content/uploads/2015/09/fondo-ios8-1.jpeg) no-repeat center center;
+border:solid 2px blue ;
+}
+input{
+    
+  font-weight:120px; 
+padding:10px 45px;
+border-radius:50px; 
+border:solid 2px blue ; 
+background: #ccc url(https://www.actualidadiphone.com/wp-content/uploads/2015/09/fondo-ios8-1.jpeg) no-repeat center center;
+family-style:bold ;
+}
+body {
+    margin: 0;
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #555;
+    background-color: #ecf0f3;
+    background: #ccc url(https://www.actualidadiphone.com/wp-content/uploads/2015/09/fondo-ios8-1.jpeg) no-repeat center center;
+}
+    
+    form {
+    
+
+    text-align: center;
+    background-color:white;;
+    font-family: sans-serif;
+    width: 300px;
+    margin: 40px auto;
+    padding: 20px;
+    border-radius: 20px;
+    height: 400px;
+    color: white;
+    border:solid 2px blue ;
+    background: #ccc url(https://www.actualidadiphone.com/wp-content/uploads/2015/09/fondo-ios8-1.jpeg) no-repeat center center;
+
+    }
+    
+ input [input type=checkbox] {
+     
+    color:blue; 
+     
+ }
+ 
+    
